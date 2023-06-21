@@ -18,7 +18,7 @@ Tecnologias Utilizadas:
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Tive dificuldade na primeira vex em que fui fazer, porém, na segunda tentativa, consegui fazer com mais tranquilidade e facilidade.
 
-Descrição: Eu fiz tudo corretamente, tive.
+Descrição: Eu fiz tudo corretamente mas, tive um pouco de dificadade mas no final deu tudo certo.
 
 Link para o acesso de ao projeto:
 <a href=https://script.google.com/macros/s/AKfycbxwWVXEb7saYx2gDnbbFbESuYhc93X_RcTFgNdRogYeqAzL967Uikg8QS4zHiycemE/exec</a>
