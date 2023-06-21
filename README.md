@@ -16,11 +16,9 @@ Tecnologias Utilizadas:
   <li>Google app scrip</li>
 </ul>
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Tive dificuldade na primeira vex em que fui fazer, porém, na segunda tentativa, consegui fazer om mais tranquilidade
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Tive dificuldade na primeira vex em que fui fazer, porém, na segunda tentativa, consegui fazer com mais tranquilidade e facilidade.
 
-Descrição: Eu fiz tudo corretamente, não vi nenhuma dificuldade além de encontrar alguns erros de codigo.
+Descrição: Eu fiz tudo corretamente, tive.
 
 Link para o acesso de ao projeto:
- if (email == "aluno@ceep.com" && senha return valorAserRetornado }else{ return valorAserRetornado == "alunoceep2023") {
-
-}
+<a href=https://script.google.com/macros/s/AKfycbxwWVXEb7saYx2gDnbbFbESuYhc93X_RcTFgNdRogYeqAzL967Uikg8QS4zHiycemE/exec</a>
